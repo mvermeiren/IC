@@ -1,0 +1,3 @@
+INFO 8 Log4NetTest.Program - pre-start
+ERROR 8 Log4NetTest.Program - error test
+DEBUG 8 Log4NetTest.Program - error evaded, debug succes

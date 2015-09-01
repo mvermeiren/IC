@@ -1,0 +1,8 @@
+c:\users\mvermeiren\documents\visual studio 2013\Projects\Log4NetTest\Log4NetTest\bin\Debug\Log4NetTest.exe.config
+c:\users\mvermeiren\documents\visual studio 2013\Projects\Log4NetTest\Log4NetTest\bin\Debug\Log4NetTest.exe
+c:\users\mvermeiren\documents\visual studio 2013\Projects\Log4NetTest\Log4NetTest\bin\Debug\Log4NetTest.pdb
+c:\users\mvermeiren\documents\visual studio 2013\Projects\Log4NetTest\Log4NetTest\bin\Debug\log4net.dll
+c:\users\mvermeiren\documents\visual studio 2013\Projects\Log4NetTest\Log4NetTest\bin\Debug\log4net.xml
+c:\users\mvermeiren\documents\visual studio 2013\Projects\Log4NetTest\Log4NetTest\obj\Debug\Log4NetTest.csprojResolveAssemblyReference.cache
+c:\users\mvermeiren\documents\visual studio 2013\Projects\Log4NetTest\Log4NetTest\obj\Debug\Log4NetTest.exe
+c:\users\mvermeiren\documents\visual studio 2013\Projects\Log4NetTest\Log4NetTest\obj\Debug\Log4NetTest.pdb
